@@ -21,9 +21,9 @@ Soy un apasionado de la tecnología con experiencia en administración de sistem
 - 🌐 TCP/IP, VLANs, Wi-Fi, VPN  
 
 ### 🛠️ **DevOps y Automatización**  
-- 🐳 **Docker** y **Kubernetes**  
+- 🐳 **Docker**  
 - 📜 **Bash, Python, PowerShell**  
-- 🤖 **Ansible, CI/CD, Terraform**  
+- 🤖 **Git** 
 
  
 ### 📦 **Herramientas y Tecnologías**  
