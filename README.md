@@ -10,7 +10,7 @@ Soy un profesional con experiencia en:
 * Soporte técnico y mantenimiento informático
 * Programación y desarrollo de software
 * Tecnología en general
-(mailto:danielarribasvelazquez@gmail.com)
+
 
 ### Habilidades y Tecnologías
 - ⚙️ **Sistemas:** Linux, Windows Server, Virtualización
@@ -27,7 +27,7 @@ Soy un profesional con experiencia en:
 ### Socials
 🖥️  [CurriculumVitae](https://daniel-arribas-velazquez.dav-tech.work/)
 
-✉️  Correo de conctacto [danielarribasvelazquez@gmail.com]
+✉️  Correo de conctacto [danielarribasvelazquez@gmail.com](mailto:danielarribasvelazquez@gmail.com)
 <p align="left"> <a href="https://www.github.com/dav-tech-work" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/daniel-arribas-velazquez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
