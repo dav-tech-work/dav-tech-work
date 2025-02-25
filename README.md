@@ -3,6 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Sys\_Admin and Securty
 ----------------------
+## 🖥️ Sobre mí
+Soy un profesional con experiencia en:
+- Administración de sistemas informáticos
+- Redes y telecomunicaciones
+- Soporte técnico y mantenimiento informático
+- Programación y desarrollo de software
+- Tecnología en general
 
 * 🌍  I'm based in Barcelona
 * 🖥️  See my  [CurriculumVitae](https://daniel-arribas-velazquez.dav-tech.work/)
