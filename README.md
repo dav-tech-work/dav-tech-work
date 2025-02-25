@@ -44,7 +44,7 @@ Soy un apasionado de la tecnología con experiencia en administración de sistem
 
 ## 🔗 Contacto y Redes Sociales  
 - 🖥️ **Curriculum Vitae:** [Ver aquí](https://daniel-arribas-velazquez.dav-tech.work/)  
-- ✉️ **Email:** [danielarribasvelazquez@gmail.com](mailto:danielarribasvelazquez@gmail.com) – ¡No dudes en escribirme!  
+- ✉️ **Email:** [danielarribasvelazquez@gmail.com](mailto:danielarribasvelazquez@gmail.com)   
 - 🐙 **GitHub:** [dav-tech-work](https://www.github.com/dav-tech-work)  
 - 💼 **LinkedIn:** [Daniel Arribas Velázquez](https://www.linkedin.com/in/daniel-arribas-velazquez)  
 
