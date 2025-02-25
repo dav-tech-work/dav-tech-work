@@ -33,12 +33,11 @@ Soy un apasionado de la tecnología con experiencia en administración de sistem
 
 | 💻 PowerShell | 🔧 Git | 🖥️ Windows Server |
 |---|---|---|
-| ![PowerShell](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg) | ![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg) | ![Windows Server](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/windowsserver-colored.svg) |
+| ![PowerShell](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg) | ![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg) | 🪟 **Windows Server** |
 
 | 🔍 Monitoring | 📡 Infraestructura | 🛡️ Seguridad | ☁️ Cloud |
 |---|---|---|---|
-| 🔹 **Herramientas de monitoreo** (SentinelOne, Datto) | 🔹 **Virtualización** (Proxmox, VMware, Hyper-V) | 🔹 **Firewall & VPN** (SonicWall, pfSense, OpenVPN) | 🔹 **Backup & Recovery** (Veeam, Acronis) |
-
+| 🔹 **Herramientas de monitoreo** (Sentinelone, DATTO) | 🔹 **Virtualización** (Proxmox, VMware, Hyper-V) | 🔹 **Firewall & VPN** (SonicWall, pfSense, OpenVPN) | 🔹 **Backup & Recovery** (Veeam, Acronis) |
 
 ---
 
