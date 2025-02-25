@@ -4,9 +4,10 @@
 ---
 
 ## 🖥️ Sobre mí  
-Soy un apasionado de la tecnología con experiencia en administración de sistemas, redes y automatización. Me especializo en la implementación y mantenimiento de infraestructuras IT, optimizando procesos mediante automatización y seguridad informática.
+Soy un apasionado de la tecnología con experiencia de 5 años en administración de sistemas, redes y automatización. Me especializo en la implementación y mantenimiento de infraestructuras IT, optimizando procesos mediante automatización y seguridad informática.
 En formación continua de nuevas tecnologías y mejores prácticas.
 ---
+
 
 ## 🚀 Habilidades y Tecnologías  
 
