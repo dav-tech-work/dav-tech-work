@@ -1,5 +1,5 @@
 # ¡Hola! 👋 Soy Daniel Arribas Velázquez
-**🌐 Especialista en Sistemas, Redes y Automatización IT**  
+**🌐 Administrador de Sistemas, Redes y Automatización IT**  
 
 ---
 
