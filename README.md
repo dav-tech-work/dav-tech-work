@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Daniel Arribas Velázquez
+# ¡Hola! 👋 Soy Dani
 **🌐 Administrador de Sistemas, Redes y Automatización IT**  
 
 ---
