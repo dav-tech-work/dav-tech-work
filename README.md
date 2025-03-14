@@ -23,7 +23,7 @@ En formación continua de nuevas tecnologías y mejores prácticas.
 
 ### 🛠️ **DevOps y Automatización**  
 - 🐳 **Docker**  
-- 📜 **Bash, Python, PowerShell**  
+- 📜 **Bash, Python, Htlm, Css, Javascript, PowerShell**  
 - 🤖 **Git** 
 
  
