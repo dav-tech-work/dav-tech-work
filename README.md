@@ -44,7 +44,7 @@ En formación continua de nuevas tecnologías y mejores prácticas.
 
 ## 🔗 Contacto y Redes Sociales  
 - 🖥️ **Curriculum Vitae:** [Ver aquí](https://daniel-arribas-velazquez.dav-tech.work/)  
-- ✉️ **Email:** [danielarribasvelazquez@gmail.com](mailto:danielarribasvelazquez@dav-tech.work)   
+- ✉️ **Email:** [danielarribasvelazquez@dav-tech.work](mailto:danielarribasvelazquez@dav-tech.work)   
 - 🐙 **GitHub:** [dav-tech-work](https://www.github.com/dav-tech-work)  
 - 💼 **LinkedIn:** [Daniel Arribas Velázquez](https://www.linkedin.com/in/daniel-arribas-velazquez)  
 
