@@ -47,7 +47,7 @@ Me apasiona resolver problemas complejos y mantenerme al día con las últimas t
 Aquí algunos de mis proyectos más relevantes en **GitHub**, que reflejan mis habilidades y pasión por la tecnología:
 
 - 🚀 **[Proyecto Web Seguro](https://github.com/dav-tech-work/porfolio)**: Sistema de gestión de contraseñas con un enfoque completo en seguridad y buenas prácticas, todo usando tecnologías como **Node.js**, **Docker**, **CSP**, y más.
-- 🛠️ **[Automatización de Infraestructura IT](https://github.com/dav-tech-work/porfolio)**: Scripts y herramientas para la **automatización** y **gestión de infraestructuras** IT usando **Bash**, **Python**, y **Docker**.
+- 🛠️ **[Multiherramienta para IT](https://github.com/dav-tech-work/multiherramienta)**: Apps de escaneo de red y realizacion de comprobaciones(En proceso).
 
 ---
 
