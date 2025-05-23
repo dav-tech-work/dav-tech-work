@@ -4,6 +4,7 @@
 ---
 
 ## 🖥️ Sobre mí  
+
 Soy un **administrador de sistemas y redes** con más de 5 años de experiencia en la creación, optimización y automatización de infraestructuras IT. Mi enfoque principal es garantizar la **seguridad** y la **eficiencia** de las operaciones tecnológicas mediante el uso de **tecnologías modernas**, automatización de procesos y **prácticas de seguridad informática avanzadas**.
 
 Me apasiona resolver problemas complejos y mantenerme al día con las últimas tendencias tecnológicas para proporcionar soluciones optimizadas y escalables.
@@ -24,34 +25,37 @@ Me apasiona resolver problemas complejos y mantenerme al día con las últimas t
 
 ### 🛠️ **DevOps y Automatización**  
 - 🐳 **Docker** / **Kubernetes** (Contenedores y orquestación)
-- 📜 **Programación**: **Bash**, **Python**, **PowerShell**, **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, **Node**
-- 🤖 **Control de versiones** con **Git**
+- 📜 **Programación**: **Bash**, **Python**, **PowerShell**, **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, **Node.js**
+- 🔧 **Control de versiones** con **Git**
 
 ### 📦 **Herramientas y Tecnologías**  
-| 🐍 Python | 🐧 Linux | 🐳 Docker | ⚡ Bash |
-|---|---|---|---|
-| ![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg) | ![Linux](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg) | ![Docker](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg) | ![Bash](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg) |
 
-| 💻 PowerShell | 🔧 Git | 🖥️ Windows Server |
-|---|---|---|
-| ![PowerShell](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg) | ![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg) | 🪟 **Windows Server** |
+| Lenguajes | Sistemas | DevOps | Herramientas |
+|-----------|----------|--------|--------------|
+| ![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg) | ![Linux](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg) | ![Docker](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg) | ![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg) |
+| **Python** | **Linux** | **Docker** | **Git** |
+| ![PowerShell](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg) | 🪟 **Windows Server** | ![Bash](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg) | 🔍 **Monitoring** |
+| **PowerShell** | **Windows Server** | **Bash** | **SentinelOne, DATTO** |
 
-| 🔍 Monitoring | 📡 Infraestructura | 🛡️ Seguridad | ☁️ Cloud |
-|---|---|---|---|
-| 🔹 **Herramientas de monitoreo** (SentinelOne, DATTO) | 🔹 **Virtualización** (Proxmox, VMware, Hyper-V) | 🔹 **Firewall & VPN** (SonicWall, pfSense, OpenVPN) | 🔹 **Backup & Recovery** (Veeam, Acronis) |
+### 🔧 **Especialidades Técnicas**
+
+| 🔍 Monitoring | 📡 Infraestructura | 🛡️ Seguridad | ☁️ Backup & Recovery |
+|---------------|-------------------|---------------|---------------------|
+| SentinelOne, DATTO | Proxmox, VMware, Hyper-V | SonicWall, pfSense, OpenVPN | Veeam, Acronis |
 
 ---
 
-## 📈 Proyectos Destacados y GitHub
+## 📈 Proyectos Destacados
 
-Aquí algunos de mis proyectos más relevantes en **GitHub**, que reflejan mis habilidades y pasión por la tecnología:
-
-- 🚀 **[Proyecto Web Seguro](https://github.com/dav-tech-work/porfolio)**: Sistema de gestión de contraseñas con un enfoque completo en seguridad y buenas prácticas, todo usando tecnologías como **Node.js**, **Docker**, **CSP**, y más.
-- 🛠️ **[Multiherramienta para IT](https://github.com/dav-tech-work/multiherramienta)**: Apps de escaneo de red y realizacion de comprobaciones(En proceso).
+| Proyecto | Descripción | Tecnologías | Estado | Link |
+|----------|-------------|-------------|---------|------|
+| 🚀 **Sistema Web Seguro** | Sistema de gestión de contraseñas con enfoque en seguridad y buenas prácticas | Node.js, Docker, CSP | ✅ Completado | [Ver código](https://github.com/dav-tech-work/porfolio) |
+| 🛠️ **Multiherramienta IT** | Aplicación de escaneo de red y comprobaciones de sistemas | Python, Bash | 🔄 En desarrollo | [Ver código](https://github.com/dav-tech-work/multiherramienta) |
 
 ---
 
 ## 🔗 Contacto y Redes Sociales  
+
 - 🖥️ **Curriculum Vitae**: [Ver aquí](https://daniel-arribas-velazquez.dav-tech.work/)  
 - ✉️ **Email**: [danielarribasvelazquez@dav-tech.work](mailto:danielarribasvelazquez@dav-tech.work)  
 - 🐙 **GitHub**: [dav-tech-work](https://www.github.com/dav-tech-work)  
@@ -60,7 +64,14 @@ Aquí algunos de mis proyectos más relevantes en **GitHub**, que reflejan mis h
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dav-tech-work&show_icons=true&theme=tokyonight)
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dav-tech-work&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dav-tech-work&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
@@ -68,4 +79,3 @@ Aquí algunos de mis proyectos más relevantes en **GitHub**, que reflejan mis h
 
 Este proyecto está licenciado bajo la **MIT License**.  
 Puedes consultar los detalles en el archivo `LICENSE`.
-
