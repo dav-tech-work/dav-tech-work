@@ -1,47 +1,60 @@
 # ¡Hola! 👋 Soy Dani  
-**🌐 Administrador de Sistemas, Redes y Automatización IT**  
+**💻 Administrador de Sistemas Informáticos | Seguridad IT | Desarrollador en Formación**
 
 ---
 
 ## 🖥️ Sobre mí  
 
-Soy un **administrador de sistemas y redes** con más de 5 años de experiencia en la creación, optimización y automatización de infraestructuras IT. Mi enfoque principal es garantizar la **seguridad** y la **eficiencia** de las operaciones tecnológicas mediante el uso de **tecnologías modernas**, automatización de procesos y **prácticas de seguridad informática avanzadas**.
+Con más de **cinco años de experiencia** en administración de sistemas informáticos, me especializo en **seguridad IT** y **gestión de infraestructuras tecnológicas**. Mi enfoque está en garantizar la integridad, resiliencia y eficiencia de redes y sistemas, implementando soluciones proactivas y estratégicas para la protección de datos y la optimización del rendimiento.
 
-Me apasiona resolver problemas complejos y mantenerme al día con las últimas tendencias tecnológicas para proporcionar soluciones optimizadas y escalables.
+Apasionado por la **innovación** y la **mejora continua**, combino experiencia sólida en administración de sistemas con conocimientos emergentes en desarrollo, buscando constantemente nuevas tecnologías que impulsen la eficiencia operativa y mejoren la experiencia del usuario final.
 
 ---
 
-## 🚀 Habilidades y Tecnologías  
+## 💡 Habilidades y Experiencia Clave
 
-### 🖥️ **Sistemas Operativos y Virtualización**  
-- 🐧 **Linux** (Debian, Ubuntu, CentOS)  
-- 🪟 **Windows Server** (AD, DNS, DHCP, GPOs)  
-- 📦 **Virtualización** (Proxmox, VMware, Hyper-V)  
+### 🔧 **Administración y Infraestructura**
+- 🐧 **Administración avanzada de sistemas** (Linux: Debian, Ubuntu, CentOS)
+- 🪟 **Windows Server** (Active Directory, DNS, DHCP, GPOs)
+- 📦 **Virtualización y contenedores** (Proxmox, VMware, Hyper-V, Docker)
+- ⚡ **Gestión y optimización de infraestructuras IT** escalables
 
-### 🌍 **Redes y Seguridad**  
-- 🔧 **Configuración de routers y switches**  
-- 🔒 **Seguridad en redes** (Firewall, IDS/IPS, VPNs)  
-- 🌐 **TCP/IP**, **VLANs**, **Wi-Fi**, **VPN**
+### 🛡️ **Seguridad Informática**
+- 🔍 **Análisis de vulnerabilidades** y auditorías de seguridad
+- 🎯 **Pruebas de penetración** y ethical hacking
+- 🛠️ **Herramientas especializadas**: Hydra, Metasploit, SentinelOne, DATTO
+- 🔒 **Implementación de políticas de seguridad** y hardening de sistemas
+- 🌐 **Seguridad en redes** (Firewall, IDS/IPS, VPNs, SonicWall, pfSense)
 
-### 🛠️ **DevOps y Automatización**  
-- 🐳 **Docker** / **Kubernetes** (Contenedores y orquestación)
-- 📜 **Programación**: **Bash**, **Python**, **PowerShell**, **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, **Node.js**
-- 🔧 **Control de versiones** con **Git**
+### 💻 **Desarrollo y Automatización**
+- 🐍 **Programación**: Python, JavaScript, Node.js, Bash, PowerShell, HTML, CSS, PHP, MySQL
+- 🤖 **Automatización de procesos** y scripting avanzado
+- 🔧 **Control de versiones** con Git y metodologías DevOps
+- 🐳 **Containerización** con Docker y Kubernetes
 
-### 📦 **Herramientas y Tecnologías**  
+### 📦 **Stack Tecnológico**
 
-| Lenguajes | Sistemas | DevOps | Herramientas |
-|-----------|----------|--------|--------------|
+| Lenguajes | Sistemas | DevOps & Security | Herramientas |
+|-----------|----------|-------------------|--------------|
 | ![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg) | ![Linux](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg) | ![Docker](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg) | ![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg) |
 | **Python** | **Linux** | **Docker** | **Git** |
-| ![PowerShell](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg) | 🪟 **Windows Server** | ![Bash](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg) | 🔍 **Monitoring** |
-| **PowerShell** | **Windows Server** | **Bash** | **SentinelOne, DATTO** |
+| ![PowerShell](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg) | 🪟 **Windows Server** | ![Bash](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg) | 🔍 **SentinelOne** |
+| **PowerShell** | **Windows Server** | **Bash** | **Monitoring & Security** |
 
-### 🔧 **Especialidades Técnicas**
+### 🔧 **Especialidades Avanzadas**
 
-| 🔍 Monitoring | 📡 Infraestructura | 🛡️ Seguridad | ☁️ Backup & Recovery |
-|---------------|-------------------|---------------|---------------------|
+| 🔍 Monitoring & Security | 📡 Virtualización | 🛡️ Network Security | ☁️ Backup & Recovery |
+|--------------------------|-------------------|---------------------|---------------------|
 | SentinelOne, DATTO | Proxmox, VMware, Hyper-V | SonicWall, pfSense, OpenVPN | Veeam, Acronis |
+| Hydra, Metasploit | Docker, Kubernetes | Firewall, IDS/IPS | Disaster Recovery |
+
+---
+
+## 📌 Formación Continua
+
+Actualmente **expandiendo mis competencias en desarrollo de software**, integrando habilidades de programación con mi experiencia en sistemas para crear soluciones más eficientes, automatizadas y versátiles en el entorno IT.
+
+**Mi enfoque**: Transformar infraestructuras tradicionales en ecosistemas tecnológicos modernos, seguros y altamente automatizados.
 
 ---
 
@@ -49,29 +62,48 @@ Me apasiona resolver problemas complejos y mantenerme al día con las últimas t
 
 | Proyecto | Descripción | Tecnologías | Estado | Link |
 |----------|-------------|-------------|---------|------|
-| 🚀 **Sistema Web Seguro** | Sistema de gestión de contraseñas con enfoque en seguridad y buenas prácticas | Node.js, Docker, CSP | ✅ Completado | [Ver código](https://github.com/dav-tech-work/porfolio) |
-| 🛠️ **Multiherramienta IT** | Aplicación de escaneo de red y comprobaciones de sistemas | Python, Bash | 🔄 En desarrollo | [Ver código](https://github.com/dav-tech-work/multiherramienta) |
+| 🚀 **Sistema Web Seguro** | Sistema de gestión de contraseñas con enfoque integral en seguridad y buenas prácticas | Node.js, Docker, CSP, Security Headers | ✅ Completado | [Ver código](https://github.com/dav-tech-work/porfolio) |
+| 🛠️ **Multiherramienta IT** | Suite de herramientas para escaneo de red, análisis de vulnerabilidades y comprobaciones de sistemas | Python, Bash, Ethical Hacking Tools | 🔄 En desarrollo | [Ver código](https://github.com/dav-tech-work/multiherramienta) |
+| 🔒 **Infraestructura Segura** | Implementación de infraestructura hardened con monitoreo avanzado | Linux, Docker, SentinelOne, Proxmox | 🔄 En progreso | 🔒 Privado |
+
+---
+
+## 🚀 Propuesta de Valor
+
+**Combinando experiencia en sistemas con desarrollo emergente**, ofrezco:
+
+- ✅ **Infraestructuras resilientes** y altamente disponibles
+- ✅ **Seguridad proactiva** con enfoque en prevención
+- ✅ **Automatización inteligente** que reduce costos operativos
+- ✅ **Soluciones escalables** que crecen con el negocio
+- ✅ **Integración DevSecOps** para desarrollo seguro
 
 ---
 
 ## 🔗 Contacto y Redes Sociales  
 
-- 🖥️ **Curriculum Vitae**: [Ver aquí](https://daniel-arribas-velazquez.dav-tech.work/)  
-- ✉️ **Email**: [danielarribasvelazquez@dav-tech.work](mailto:danielarribasvelazquez@dav-tech.work)  
-- 🐙 **GitHub**: [dav-tech-work](https://www.github.com/dav-tech-work)  
-- 💼 **LinkedIn**: [Daniel Arribas Velázquez](https://www.linkedin.com/in/daniel-arribas-velazquez)  
+- 🖥️ **Portfolio Profesional**: [daniel-arribas-velazquez.dav-tech.work](https://daniel-arribas-velazquez.dav-tech.work/)
+- ✉️ **Email Profesional**: [danielarribasvelazquez@dav-tech.work](mailto:danielarribasvelazquez@dav-tech.work)
+- 🐙 **GitHub**: [dav-tech-work](https://www.github.com/dav-tech-work)
+- 💼 **LinkedIn**: [Daniel Arribas Velázquez](https://www.linkedin.com/in/daniel-arribas-velazquez)
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dav-tech-work&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dav-tech-work&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dav-tech-work&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dav-tech-work&layout=compact&theme=tokyonight&langs_count=8) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dav-tech-work&theme=tokyonight)
 
 </div>
+
+---
+
+## 📩 ¡Conectemos!
+
+Busco colaborar en **proyectos desafiantes** donde pueda aplicar mi experiencia en **seguridad IT** y **administración de sistemas**, mientras continúo creciendo en el desarrollo de soluciones tecnológicas innovadoras.
+
+**Exploremos juntos nuevas oportunidades en el mundo IT.**
 
 ---
 
