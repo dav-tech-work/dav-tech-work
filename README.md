@@ -23,8 +23,8 @@ Me apasiona resolver problemas complejos y mantenerme al día con las últimas t
 - 🌐 **TCP/IP**, **VLANs**, **Wi-Fi**, **VPN**
 
 ### 🛠️ **DevOps y Automatización**  
-- 🐳 **Docker** (Contenedores y orquestación)
-- 📜 **Scripting**: **Bash**, **Python**, **PowerShell**, **HTML**, **CSS**, **JavaScript**
+- 🐳 **Docker** / **Kubernetes** (Contenedores y orquestación)
+- 📜 **Programación**: **Bash**, **Python**, **PowerShell**, **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, **Node**
 - 🤖 **Control de versiones** con **Git**
 
 ### 📦 **Herramientas y Tecnologías**  
