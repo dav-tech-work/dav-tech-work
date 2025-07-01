@@ -72,7 +72,7 @@ Actualmente profundizando en **desarrollo de software** y **automatización avan
 ## 🔗 Contacto y Redes Sociales
 
 - 🖥️ [Portfolio Profesional](https://daniel-arribas-velazquez.dav-tech.work/)
-- ✉️ [Correo] ( danielarribasvelazquez@dav-tech.work)
+- ✉️ [Correo]( danielarribasvelazquez@dav-tech.work)
 - 🐙 [GitHub](https://github.com/dav-tech-work)
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-arribas-velazquez/)
 
