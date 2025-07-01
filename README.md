@@ -47,8 +47,8 @@ Me motiva transformar entornos tradicionales en ecosistemas modernos, resiliente
 
 | Proyecto | Descripción | Tecnologías | Estado | Link |
 |----------|-------------|-------------|--------|------|
-| 🚀 **Sistema Web Seguro** | Gestión de contraseñas con enfoque integral en seguridad y buenas prácticas | Node.js, Docker, CSP, Security | ✅ Completado | [Ver código](#) |
-| 🛠️ **Multiherramienta IT** | Suite para escaneo de red, análisis de vulnerabilidades y comprobaciones | Python, Bash, Ethical Hacking | 🔄 En desarrollo | [Ver código](#) |
+| 🚀 **Sistema Web Seguro** | Gestión de contraseñas con enfoque integral en seguridad y buenas prácticas | Node.js, Docker, CSP, Security | ✅ Completado | [Ver código](https://github.com/dav-tech-work/porfolio) |
+| 🛠️ **Multiherramienta IT** | Suite para escaneo de red, análisis de vulnerabilidades y comprobaciones | Python, Bash, Ethical Hacking | 🔄 En desarrollo | [Ver código](https://github.com/dav-tech-work/multiherramienta) |
 | 🔒 **Infraestructura Segura** | Infraestructura hardened con monitoreo avanzado | Linux, Docker, SentinelOne, Proxmox | 🔄 En progreso | 🔒 Privado |
 
 ---
@@ -72,10 +72,9 @@ Actualmente profundizando en **desarrollo de software** y **automatización avan
 ## 🔗 Contacto y Redes Sociales
 
 - 🖥️ [Portfolio Profesional](https://daniel-arribas-velazquez.dav-tech.work/)
-- ✉️ danielarribasvelazquez@dav-tech.work
-- 🐙 [GitHub](#)
-- 💼 [LinkedIn](#)
-- 📊 [GitHub Analytics](#)
+- ✉️ [Correo] ( danielarribasvelazquez@dav-tech.work)
+- 🐙 [GitHub](https://github.com/dav-tech-work)
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-arribas-velazquez/)
 
 ---
 
