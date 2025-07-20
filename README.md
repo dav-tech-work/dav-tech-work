@@ -47,7 +47,7 @@ Me motiva transformar entornos tradicionales en ecosistemas modernos, resiliente
 
 | Proyecto | Descripción | Tecnologías | Estado | Link |
 |----------|-------------|-------------|--------|------|
-| 🚀 **Sistema Web Seguro** | Gestión de contraseñas con enfoque integral en seguridad y buenas prácticas | Node.js, Docker, CSP, Security | ✅ Completado | [Ver código](https://github.com/dav-tech-work/porfolio) |
+| 🚀 **Sistema Web Seguro** | Gestión de contraseñas con enfoque integral en seguridad y buenas prácticas | Node.js, Docker, CSP, Security | ✅ Completado | [Ver código](https://github.com/dav-tech-work/portfolio) |
 | 🛠️ **Multiherramienta IT** | Suite para escaneo de red, análisis de vulnerabilidades y comprobaciones | Python, Bash, Ethical Hacking | 🔄 En desarrollo | [Ver código](https://github.com/dav-tech-work/multiherramienta) |
 | 🔒 **Infraestructura Segura** | Infraestructura hardened con monitoreo avanzado | Linux, Docker, SentinelOne, Proxmox | 🔄 En progreso | 🔒 Privado |
 
